@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Content Creator at Crowsec Edtech and Head of Application Security at Hakai Offensive Security <br>👯 I’m looking to collaborate on Cyber Security Tools / Research <br>🌱 I’m currently learning coding (nuxt/vue)<br>💬 Ask me about - Web Hacking & Application Security 
+🔭 Content Creator at Crowsec Edtech and Head of Application Security at Hakai Offensive Security <br>👯 I’m looking to collaborate on Cyber Security Tools / Research <br>🌱 I’m currently learning vulnerabilities in .net core (C#)<br>💬 Ask me about - Web Hacking & Application Security 
 
 
 ## 🌐 Socials:
